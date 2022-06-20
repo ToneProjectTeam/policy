@@ -79,64 +79,64 @@ Toneは利根と音色をかけた名前です。意義は認めます。
 この語句を聞いて、ピンとこない方は[こちら](https://www.google.com/search?q=twitter+%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%A9%E3%82%A4%E3%83%B3&sxsrf=ALiCzsYwPUTyW77psuf6y83qCOq_Qit2Mw:1655728098764&source=lnms&tbm=isch&sa=X&ved=2ahUKEwimja_pg7z4AhVWm1YBHUtAD4EQ_AUoAXoECAEQAw&biw=1440&bih=789&dpr=2)  
 
 | 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 | 
-----|---- 
+----|----|---- 
 | Github/Command line/ | HTML/CSS | Next.js/TS/firebase/git/English | 
 
 ### Q and A機能 ★★★★
 この語句を聞いて、ピンとこない方は[こちら](https://chiebukuro.yahoo.co.jp/)  
-| 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 | 
-----|---- 
+| 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 |   
+----|----|---- 
 | Github/Command line/ | HTML/CSS/JS | Next.js/TS/firebase/git/English | 
 
 ### DM機能 ★★
 LineとかDiscordとかです。
 | 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 | 
-----|---- 
+----|----|---- 
 | Github/Command line/ | HTML/CSS/JS | Next.js/TS/firebase/git/English | 
 
 ### ストーリー機能 ★★★
 この語句を聞いて、ピンとこない方は[こちら](https://www.google.com/search?q=%E3%82%A4%E3%83%B3%E3%82%B9%E3%82%BF+%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC&source=lmns&bih=789&biw=1440&hl=ja&sa=X&ved=2ahUKEwiL_tCukLz4AhXSIaYKHe-tD8QQ_AUoAHoECAEQAA)
 | 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 | 
-----|---- 
+----|----|---- 
 | Github/Command line/ | HTML/CSS/JS | Next.js/TS/firebase/git/English | 
 
 ### 目安箱機能 ★★
 目安箱をオンライン化したものです。
 | 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 | 
-----|---- 
+----|----|---- 
 | Github/Command line/ | HTML/CSS/JS | Next.js/TS/firebase/git/English | 
 
 ### 選挙/一斉アンケート機能 ★★★
 DMで全員にデータをもらってFirestoreにぶち込みたい。
 | 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 | 
-----|---- 
+----|----|---- 
 | Github/Command line/ | HTML/CSS/JS | Next.js/TS/firebase/git/English | 
 
 ### お天気機能 ★★
 天気予報！時間割ごとに天気を表示して、体育が中か外か判断したり、傘がいるか日焼け止めがいるかなども表示させたい。  
 ほぼ完成しているが脆弱性が発見された。
 | 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 | 
-----|---- 
+----|----|---- 
 | Github/Command line/ | HTML/CSS/JS | yarn/git/English | 
 
 ### 校則閲覧機能 ★
 めちゃくちゃ簡単なのでまずはここから開発してほしい。その後お天気に行くと良い。
 おそらく僕が触る可能性はかなり低い。
 | 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 | 
-----|---- 
+----|----|---- 
 | Github/Command line | HTML/CSS | JQuery/SCSS | 
 
 ### アカウント管理機能 ★★★★
 絶対作らなければならないが全員分のメールアドレスをどうするかなど問題は多くある。
 ちなみに個人アカウント(山田太郎など)と団体アカウント(PC部など)の二つ作ろうとしている。
 | 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 | 
-----|---- 
+----|----|---- 
 | Github/Command line/ | HTML/CSS/JS | Next.js/TS/firebase/git/English | 
 
 ### 広告機能 ★★
 文化祭やSDGsに利用できればなと思っている。
 | 欠かせない技術 | 多少開発できるかもしれない技術 | しっかり開発できる技術 | 
-----|---- 
+----|----|---- 
 | Github/Command line | HTML/CSS | JQuery/SCSS | 
 
 ### コイン機能 ★★★★★
