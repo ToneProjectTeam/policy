@@ -14,7 +14,7 @@ ToneProjectとは、古河中等教育学校に寄り添うSNS『Tone』を作�
 ## デザインについて
 できるなら[Figma](https://www.figma.com/)で作った方が自由度が高く、CSSをそのままコピペできるなどメリットが多くあるが、  
 おそらく僕はあんまり時間を割けないので誰かにやってもらうしかない。  
-共同開発なのでCSSが見にくくなることを考えると[Bootstrap](https://getbootstrap.jp/)[ReactBootstrap](https://react-bootstrap.github.io/)で開発する方が良さそう。  
+共同開発なのでCSSが見にくくなることを考えると[Bootstrap](https://getbootstrap.jp/) [ReactBootstrap](https://react-bootstrap.github.io/)で開発する方が良さそう。  
 Bootstrapはうまく使えばスマホのレイアウトを考えなくてもよいのでかなり好き。CSSをわざわざ書かずに簡素にクラス名を書くことでCSSを指定できるので大好き。
 
 
